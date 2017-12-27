@@ -1,0 +1,99 @@
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\bin\Debug\Parking.exe
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\bin\Debug\Parking.pdb
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\bin\Debug\MySQLDriverCS.dll
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.Main.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.exe
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.pdb
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\bin\Debug\MySql.Data.xml
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.exe
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.pdb
+G:\RFID_Parking\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.About.resources
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.Form1.resources
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.InCar.resources
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.Main.resources
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+G:\RFID_Parking\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+G:\RFID_Parking\Parking\Parking\bin\Debug\Parking.exe
+G:\RFID_Parking\Parking\Parking\bin\Debug\Parking.pdb
+G:\RFID_Parking\Parking\Parking\bin\Debug\MySql.Data.dll
+G:\RFID_Parking\Parking\Parking\bin\Debug\MySql.Data.xml
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.About.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.InCar.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking\Parking\Parking\obj\Debug\Parking.login.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.exe
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.pdb
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.About.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.InCar.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.login.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Main.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\Parking.exe
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\Parking.pdb
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\MySQLDriverCS.dll
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\MySql.Data.xml
+C:\Documents and Settings\Owner\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Form_Search.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.exe
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.pdb
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.About.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Form_Search.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.InCar.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.login.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Main.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+E:\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+E:\RFID_Parking_test\Parking\Parking\bin\Debug\Parking.exe
+E:\RFID_Parking_test\Parking\Parking\bin\Debug\Parking.pdb
+E:\RFID_Parking_test\Parking\Parking\bin\Debug\MySql.Data.dll
+E:\RFID_Parking_test\Parking\Parking\bin\Debug\MySql.Data.xml
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.exe
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.pdb
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.About.resources
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Form_Search.resources
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.InCar.resources
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.login.resources
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Main.resources
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\Parking.exe
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\Parking.pdb
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\IECS\桌面\RFID_Parking_test\Parking\Parking\bin\Debug\MySql.Data.xml
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.exe
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.pdb
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\bin\Debug\Parking.exe
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\bin\Debug\Parking.pdb
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\bin\Debug\MySQLDriverCS.dll
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\bin\Debug\MySql.Data.xml
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.About.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.Form_Search.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.InCar.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.login.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.Main.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+C:\Documents and Settings\Owner\桌面\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.exe
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.pdb
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\bin\Debug\Parking.exe
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\bin\Debug\Parking.pdb
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\bin\Debug\MySql.Data.dll
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\bin\Debug\MySql.Data.xml
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\ResolveAssemblyReference.cache
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.About.resources
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.Form_Search.resources
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.InCar.resources
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.login.resources
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.Main.resources
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.Properties.Resources.resources
+D:\LingYu\RFID\RFID_Parking_lingyu\Parking\Parking\obj\Debug\Parking.csproj.GenerateResource.Cache
